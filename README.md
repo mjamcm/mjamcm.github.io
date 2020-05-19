@@ -1,2 +1,2 @@
 # mjamcm.github.io
-A personal website
+A website
